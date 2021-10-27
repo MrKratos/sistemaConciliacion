@@ -1,0 +1,20 @@
+﻿@model IEnumerable<AppCuadre.Models.Archivo>
+@{
+    ViewData["Title"] = "Lista de Archivos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Cargar Archivos</h2>
+<br />
+
+<form class="col-lg-6">
+    <div class="col-auto">
+        <label for="formFileMultiple" class="form-label">Seleccione los archivos</label>
+        <input class="form-control" type="file" id="formFileMultiple" multiple>
+    </div>
+    <br />
+    <div class="col-auto">
+        <button type="submit" class="btn btn-primary">Cargar</button>
+    </div>
+</form>
+
