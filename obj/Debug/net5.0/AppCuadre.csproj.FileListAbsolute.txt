@@ -862,4 +862,4 @@ D:\TCS\proyecto area operaciones\sistemaConciliacion\obj\Debug\net5.0\AppCuadre.
 D:\TCS\proyecto area operaciones\sistemaConciliacion\obj\Debug\net5.0\ref\AppCuadre.dll
 D:\TCS\proyecto area operaciones\sistemaConciliacion\obj\Debug\net5.0\AppCuadre.pdb
 D:\TCS\proyecto area operaciones\sistemaConciliacion\obj\Debug\net5.0\AppCuadre.genruntimeconfig.cache
-D:\TCS\proyecto area operaciones\sistemaConciliacion\obj\Debug\net5.0\Razor\Views\ejecutarProcedimiento\ejecutarProcedimiento.cshtml.g.cs
+D:\TCS\proyecto area operaciones\sistemaConciliacion\obj\Debug\net5.0\Razor\Views\ejecutarProc\ejecutarProcedimiento.cshtml.g.cs
