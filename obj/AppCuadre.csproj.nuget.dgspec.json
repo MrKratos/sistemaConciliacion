@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos Visual\\AppCuadre\\AppCuadre\\AppCuadre.csproj": {}
+    "D:\\TCS\\proyecto area operaciones\\sistemaConciliacion\\AppCuadre.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos Visual\\AppCuadre\\AppCuadre\\AppCuadre.csproj": {
+    "D:\\TCS\\proyecto area operaciones\\sistemaConciliacion\\AppCuadre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos Visual\\AppCuadre\\AppCuadre\\AppCuadre.csproj",
+        "projectUniqueName": "D:\\TCS\\proyecto area operaciones\\sistemaConciliacion\\AppCuadre.csproj",
         "projectName": "AppCuadre",
-        "projectPath": "D:\\Proyectos Visual\\AppCuadre\\AppCuadre\\AppCuadre.csproj",
-        "packagesPath": "C:\\Users\\juang\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos Visual\\AppCuadre\\AppCuadre\\obj\\",
+        "projectPath": "D:\\TCS\\proyecto area operaciones\\sistemaConciliacion\\AppCuadre.csproj",
+        "packagesPath": "C:\\Users\\Nicolas Jimenez\\.nuget\\packages\\",
+        "outputPath": "D:\\TCS\\proyecto area operaciones\\sistemaConciliacion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\juang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicolas Jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "net5.0": {
@@ -77,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
