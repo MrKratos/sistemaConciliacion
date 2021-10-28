@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+    <br />
+    <button type="submit" class="btn btn-dark">Agregar nuevo Procedimiento</button>
+<br /><br />
+      <p>
+          @Html.TextBox("SearchString")
+          <input type="submit" class="btn btn-dark" value="Buscar" />
+      </p>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Acciones</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>Procedimiento 1</td>
+            <td>
+                <button type="submit" class="btn btn-dark">Abrir</button>
+            
+                <button type="submit" class="btn btn-primary">Editar</button>
+            
+           <button type="submit" class="btn btn-danger">Eliminar</button></td>
+        </tr>
+    
+    </tbody>
+</table>
+
